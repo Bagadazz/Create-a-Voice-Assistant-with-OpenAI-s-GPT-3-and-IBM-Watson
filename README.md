@@ -11,8 +11,14 @@ Course completion of Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson
 
 ## Type :
 - Python
-- Yml
+- Javascript
+- Html
 - Txt
+
+## With :
+- Docker
+- OpenAI
+- IBM Watson
 
 ## Content :
 - Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson
