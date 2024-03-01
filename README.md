@@ -21,4 +21,4 @@ Course completion of Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson
 - IBM Watson
 
 ## Content :
-- Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson
+- How to create a voice assistant step by step using OpenAI GPT-3 and IBM Watson. This can be used for other advanced projects such as a website assistant
